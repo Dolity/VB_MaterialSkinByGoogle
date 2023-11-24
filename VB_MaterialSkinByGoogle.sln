@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB_MaterialSkinByGoogle", "VB_MaterialSkinByGoogle.vbproj", "{F1695207-FDB9-402C-97AF-0D0AFD4EC7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1695207-FDB9-402C-97AF-0D0AFD4EC7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1695207-FDB9-402C-97AF-0D0AFD4EC7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1695207-FDB9-402C-97AF-0D0AFD4EC7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1695207-FDB9-402C-97AF-0D0AFD4EC7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42BCC377-2F88-447D-AFAC-9E891A17BC12}
+	EndGlobalSection
+EndGlobal
